@@ -1,0 +1,11 @@
+California	Sacramento
+Oregon	Salem
+Nevada	Carson City
+Colorado	Denver
+Montana	Helena
+Washington	Olympia
+Idaho	Boise
+Wyoming	Cheyenne
+Utah	Salt Lake City
+New Mexico	Santa Fe
+Arizona	Phoenix

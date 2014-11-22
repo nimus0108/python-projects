@@ -1,0 +1,10 @@
+Delaware	Dover
+Pennsylvania	Harrisburg
+New Jersey	Trenton
+Georgia	Atlanta
+Connecticut	Hartford
+Massachusetts	Boston
+Maryland	Annapolis
+New Hampshire	Concord
+Virginia	Richmond
+New York	Albany

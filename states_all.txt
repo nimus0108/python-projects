@@ -1,0 +1,50 @@
+Delaware	Dover
+Pennsylvania	Harrisburg
+New Jersey	Trenton
+Georgia	Atlanta
+Connecticut	Hartford
+Massachusetts	Boston
+Maryland	Annapolis
+South Carolina	Columbia
+New Hampshire	Concord
+Virginia	Richmond
+New York	Albany
+North Carolina	Raleigh
+Rhode Island	Providence
+Vermont	Montpelier
+Kentucky	Frankfort
+Tennessee	Nashville
+Ohio	Columbus
+Louisiana	Baton Rouge
+Indiana	Indianapolis
+Mississippi	Jackson
+Illinois	Springfield
+Alabama	Montgomery
+Maine	Augusta
+Missouri	Jefferson City
+Arkansas	Little Rock
+Michigan	Lansing
+Florida	Tallahassee
+Texas	Austin
+Iowa	Des Moines
+Wisconsin	Madison
+California	Sacramento
+Minnesota	St. Paul
+Oregon	Salem
+Kansas	Topeka
+West Virginia	Charleston
+Nevada	Carson City
+Nebraska	Lincoln
+Colorado	Denver
+North Dakota	Bismarck
+South Dakota	Pierre
+Montana	Helena
+Washington	Olympia
+Idaho	Boise
+Wyoming	Cheyenne
+Utah	Salt Lake City
+Oklahoma	Oklahoma City
+New Mexico	Santa Fe
+Arizona	Phoenix
+Alaska	Juneau
+Hawaii	Honolulu

@@ -1,0 +1,12 @@
+Georgia	Atlanta
+South Carolina	Columbia
+North Carolina	Raleigh
+Kentucky	Frankfort
+Tennessee	Nashville
+Louisiana	Baton Rouge
+Mississippi	Jackson
+Alabama	Montgomery
+Missouri	Jefferson City
+Arkansas	Little Rock
+Florida	Tallahassee
+Texas	Austin

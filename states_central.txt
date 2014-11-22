@@ -1,0 +1,11 @@
+Kentucky	Frankfort
+Tennessee	Nashville
+Ohio	Columbus
+Indiana	Indianapolis
+Illinois	Springfield
+Missouri	Jefferson City
+Michigan	Lansing
+Iowa	Des Moines
+Wisconsin	Madison
+Minnesota	St. Paul
+Kansas	Topeka
