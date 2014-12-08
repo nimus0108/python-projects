@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20b17b7e-fbf8-4702-a000-0e395cce780e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit 4/Geometry.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit 4/Geometry_memory_demo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit 4/Geometry_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tri1/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit 4/company_invoice.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit 4/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tri1/person.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/python-hw.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DaysMonths.py" afterPath="$PROJECT_DIR$/Tri1/DaysMonths.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/Tri1/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StatsCalc.py" afterPath="$PROJECT_DIR$/Tri1/StatsCalc.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/alphabetize.py" afterPath="$PROJECT_DIR$/Tri1/alphabetize.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/anal_scores.py" afterPath="$PROJECT_DIR$/Tri1/anal_scores.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assigning_grades.py" afterPath="$PROJECT_DIR$/Tri1/assigning_grades.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/char_counter.py" afterPath="$PROJECT_DIR$/Tri1/char_counter.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cipher1.txt" afterPath="$PROJECT_DIR$/Tri1/cipher1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cipherlab.py" afterPath="$PROJECT_DIR$/Tri1/cipherlab.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ctext.txt" afterPath="$PROJECT_DIR$/Tri1/ctext.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/definitions.py" afterPath="$PROJECT_DIR$/Tri1/definitions.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/definitions.txt" afterPath="$PROJECT_DIR$/Tri1/definitions.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dictro.py" afterPath="$PROJECT_DIR$/Tri1/dictro.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/distinctnums.py" afterPath="$PROJECT_DIR$/Tri1/distinctnums.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/num_dist_1.txt" afterPath="$PROJECT_DIR$/Tri1/num_dist_1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/numdist.py" afterPath="$PROJECT_DIR$/Tri1/numdist.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/states_all.txt" afterPath="$PROJECT_DIR$/Tri1/states_all.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/states_central.txt" afterPath="$PROJECT_DIR$/Tri1/states_central.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/states_east.txt" afterPath="$PROJECT_DIR$/Tri1/states_east.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/states_south.txt" afterPath="$PROJECT_DIR$/Tri1/states_south.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/states_west.txt" afterPath="$PROJECT_DIR$/Tri1/states_west.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/statescapital.py" afterPath="$PROJECT_DIR$/Tri1/statescapital.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/story.txt" afterPath="$PROJECT_DIR$/Tri1/story.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_num_1.txt" afterPath="$PROJECT_DIR$/Tri1/test_num_1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_review.py" afterPath="$PROJECT_DIR$/Tri1/test_review.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vol_con.py" afterPath="$PROJECT_DIR$/Tri1/vol_con.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/words.txt" afterPath="$PROJECT_DIR$/Tri1/words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit 4/alien_blaster.py" />
     </list>
     <ignored path="python-hw.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="localhackday.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/localhackday.py">
+      <file leaf-file-name="alien_blaster.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Unit 4/alien_blaster.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24253732" vertical-offset="0" max-vertical-offset="804">
-              <caret line="13" column="102" selection-start-line="13" selection-start-column="102" selection-end-line="13" selection-end-column="102" />
+            <state vertical-scroll-proportion="0.65217394" vertical-offset="0" max-vertical-offset="529">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -91,6 +50,7 @@
         <option value="$PROJECT_DIR$/Unit 4/Geometry_memory_demo" />
         <option value="$PROJECT_DIR$/Unit 4/Geometry.py" />
         <option value="$PROJECT_DIR$/localhackday.py" />
+        <option value="$PROJECT_DIR$/Unit 4/alien_blaster.py" />
       </list>
     </option>
   </component>
@@ -138,6 +98,10 @@
               <option name="myItemId" value="python-hw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Unit 4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -146,10 +110,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python-hw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Unit 4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -175,7 +135,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Geometry_memory_demo">
+  <component name="RunManager" selected="Python.alien_blaster">
     <configuration default="false" name="Geometry_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,6 +175,25 @@
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="alien_blaster" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-hw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 4/alien_blaster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -263,6 +242,23 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-hw" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,6 +274,23 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-hw" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -340,14 +353,16 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.Geometry_test" />
       <item index="1" class="java.lang.String" itemvalue="Python.Geometry_memory_demo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.alien_blaster" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.Geometry_memory_demo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Geometry_test" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.alien_blaster" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Geometry_memory_demo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Geometry_test" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +401,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -394,7 +409,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14023961" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -402,9 +419,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -448,13 +463,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/Unit 4/Geometry_memory_demo</url>
-          <line>3</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -467,37 +475,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/localhackday.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/localhackday.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 4/Geometry_memory_demo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="465">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 4/Geometry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tri1/char_counter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
@@ -509,20 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="420">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 4/Geometry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="750">
-          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 4/Geometry_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -561,32 +524,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 4/Geometry_test.py">
+    <entry file="file://$PROJECT_DIR$/Unit 4/alien_blaster.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4279661" vertical-offset="38" max-vertical-offset="510">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 4/Geometry_memory_demo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 4/Geometry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="930">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/localhackday.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24253732" vertical-offset="0" max-vertical-offset="804">
-          <caret line="13" column="102" selection-start-line="13" selection-start-column="102" selection-end-line="13" selection-end-column="102" />
+        <state vertical-scroll-proportion="0.65217394" vertical-offset="0" max-vertical-offset="529">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
           <folding />
         </state>
       </provider>
