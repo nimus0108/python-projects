@@ -13,13 +13,13 @@ def create_key ():
 
 def load_cipher_file (file_name):
     text_file = open(file_name, "r")
-    return text_file
     
-    for i in text_file:
-        list1 = i.split("\t")
-        e_dict[list1[0]] = list1[1]
-    print(e_dict)
-
+    for line in text_file:
+        char = line.split("\t")
+        key = char[0]
+        v = char[1].strip()
+        e_dict[key] = v
+        d_dict[v] = key
     """ 
     Loads a cipher from the specified file.
     This function sets e_dict to encrypt messages and d_dict to decrypt messages.
@@ -27,9 +27,16 @@ def load_cipher_file (file_name):
 
 
 def encrypt_message ():
-    text_file = load_cipher_file (file_name)
-    em = ""
+    m = input("input the message\n")
+    m = m.upper()
 
+    encrypted = ""
+
+    for i in m:
+        encrypted += (d_dict.get(i,i))
+
+    return (encrypted)
+        
     """ 
     This function asks the user for a message to encrypt.
     It then prints an encrypted version of the message.    
@@ -40,6 +47,16 @@ def encrypt_message ():
     """     
 
 def decrypt_message ():
+    m = input("Enter the message to decrypt\n")
+    m = m.upper()
+
+    decrypted = ""
+
+    for i in m:
+        decrypted += (e_dict.get(i,i))
+
+    return (decrypted)
+        
     """ 
     This function asks the user for a message to decrypt.
     It then prints the decrypted message.    
@@ -53,7 +70,7 @@ def main():
     fname = input("Enter the filename of the cipher to use.\n")
     file = load_cipher_file(fname)
     action = " "
-    action = input("C - Create a new cypher key\nE - Encrypt a message\nD - Decrypt a message\nQ - Quit")
+    action = input("\tC - Create a new cypher key\n\tE - Encrypt a message\n\tD - Decrypt a message\n\tQ - Quit\n\n")
     while action!= "Q":
         if action == "E":
             print(encrypt_message())
@@ -61,6 +78,8 @@ def main():
             print(decrypt_message())
         elif action == "C":
             print()
+        action = input("\n\tC - Create a new cypher key\n\tE - Encrypt a message\n\tD - Decrypt a message\n\tQ - Quit\n\n")
+
     
     """
     Asks the user which cipher file to load.
