@@ -13,9 +13,10 @@ class Application(tkinter.Frame):
 
         self.pw_lbl = tkinter.Label(self, text="Password: ")
         self.pw_lbl.grid(row=1, column=0, sticky=tkinter.W)
-        self.pw_ent = tkinter.Entry(self)
 
+        self.pw_ent = tkinter.Entry(self)
         self.pw_ent.grid(row=1, column=1, sticky=tkinter.W)
+
         self.submit_bttn = tkinter.Button(self, text="Submit", command=self.reveal)
 
         self.submit_bttn.grid(row=2, column=0, sticky=tkinter.W)
