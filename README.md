@@ -1,4 +1,2 @@
-python-hw
+Intro to Python
 =========
-Hi guys,
-I will upload all assignments from the Intro to CompSci course here.
